@@ -1,0 +1,13 @@
+dependencies:
+ - python
+ - numpy
+ - scipy
+ - scikit-learn
+ - jupyter
+ - requests
+ - pandas
+ - seaborn
+ - pip:
+   - watermark
+   - pytest
+   - quandl
