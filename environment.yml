@@ -11,3 +11,5 @@ dependencies:
    - watermark
    - pytest
    - quandl
+   - tqdm
+   - keras
